@@ -1,0 +1,70 @@
+cure for cancer protein
+ATGCCACTATGGTAG
+[4, 3, 4, 4]
+[540.51, 333.31, 604.51, 500.43, 0]
+[27.3, 16.8, 30.6, 25.3]
+['ATG', 'CCA', 'CTA', 'TGG', 'TAG']
+True
+captain picard hair growth protein
+ATGCCAACATGGATGCCCGATATGGATTGA
+[9, 6, 8, 7]
+[1216.15, 666.62, 1209.02, 875.75, 0]
+[30.7, 16.8, 30.5, 22.1]
+['ATG', 'CCA', 'ACA', 'TGG', 'ATG', 'CCC', 'GAT', 'ATG', 'GAT', 'TGA']
+True
+bogus protein
+CCATT-AATGATCA-CAGTT
+[6, 4, 2, 6]
+[810.77, 444.41, 302.26, 750.64, 200]
+[32.3, 17.7, 12.1, 29.9]
+['CCA', 'TTA', 'ATG', 'ATC', 'ACA', 'GTT']
+False
+michael jordan mad hops protein
+ATGAG-ATC-CGTGATGTGGG-AT-CCTA-CT-CATTAA
+[9, 6, 8, 10]
+[1216.15, 666.62, 1209.02, 1251.07, 600]
+[24.6, 13.5, 24.5, 25.3]
+['ATG', 'AGA', 'TCC', 'GTG', 'ATG', 'TGG', 'GAT', 'CCT', 'ACT', 'CAT', 'TAA']
+True
+paris hilton phony protein
+ATGC-CAACATGGATGCCCTAAG-ATATGGATTAGTGA
+[12, 6, 9, 9]
+[1621.54, 666.62, 1360.15, 1125.96, 200]
+[32.6, 13.4, 27.3, 22.6]
+['ATG', 'CCA', 'ACA', 'TGG', 'ATG', 'CCC', 'TAA', 'GAT', 'ATG', 'GAT', 'TAG', 'TGA']
+True
+jimi hendrix guitar talent protein
+ATGATAATTAGTTTTAATATCAGA-CTGTAA
+[12, 2, 4, 12]
+[1621.54, 222.21, 604.51, 1501.28, 100]
+[40.0, 5.5, 14.9, 37.1]
+['ATG', 'ATA', 'ATT', 'AGT', 'TTT', 'AAT', 'ATC', 'AGA', 'CTG', 'TAA']
+True
+admiral grace murray hopper protein
+ATGC-AATT--GC-----TCGA--------TTAG
+[5, 3, 4, 6]
+[675.64, 333.31, 604.51, 750.64, 1600]
+[17.0, 8.4, 15.2, 18.9]
+['ATG', 'CAA', 'TTG', 'CTC', 'GAT', 'TAG']
+False
+tyler durden's brain protein
+ATGATACCTATGAGTAATGTGGACCATATCCAAACTATAGGCATTGTCGGACCAACGATCGATTGGTTATACTGA
+[24, 14, 16, 21]
+[3243.07, 1555.44, 2418.05, 2627.25, 0]
+[32.9, 15.8, 24.6, 26.7]
+['ATG', 'ATA', 'CCT', 'ATG', 'AGT', 'AAT', 'GTG', 'GAC', 'CAT', 'ATC', 'CAA', 'ACT', 'ATA', 'GGC', 'ATT', 'GTC', 'GGA', 'CCA', 'ACG', 'ATC', 'GAT', 'TGG', 'TTA', 'TAC', 'TGA']
+True
+mini me growth hormone
+ATGGGACGCTGA
+[3, 2, 5, 2]
+[405.38, 222.21, 755.64, 250.21, 0]
+[24.8, 13.6, 46.3, 15.3]
+['ATG', 'GGA', 'CGC', 'TGA']
+False
+Nyan Cat protein
+CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT-CAT
+[10, 10, 0, 10]
+[1351.28, 1111.03, 0.0, 1251.07, 900]
+[29.3, 24.1, 0.0, 27.1]
+['CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT', 'CAT']
+False
